@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# Who I am
+# Who I am and why I study Computer Science
 
 I am a 20 year old student at John Abbott College currently in the process of obtaining my computer science degree.
 
