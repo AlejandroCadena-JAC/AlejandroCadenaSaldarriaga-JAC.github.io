@@ -16,7 +16,7 @@ body {
 }
 
 #site-nav {
-  color: #252d34;
+  color: #000000;
   background-color: #dec5df;
 }
 

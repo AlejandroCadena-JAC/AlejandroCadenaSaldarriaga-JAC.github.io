@@ -12,4 +12,12 @@ body {
     margin: 5px;
 }
 
+#site-nav {
+  color: #000000;
+  background-color: #dec5df;
+}
+
+h1 {
+  color: #000000;
+}
 </style>
