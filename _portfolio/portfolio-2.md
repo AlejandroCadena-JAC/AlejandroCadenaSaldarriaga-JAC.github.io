@@ -15,12 +15,14 @@ collection: portfolio
     color: #000000;
     background-color: #dec5df;
   }
-  
+  #site-nav a {
+    color: #000000;
+  }
   a {
     color: #000000;
   }
   h1 {
     color: #000000;
   }
-  </style>
+  </style>  
 

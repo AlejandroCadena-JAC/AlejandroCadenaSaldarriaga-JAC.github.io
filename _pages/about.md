@@ -20,6 +20,10 @@ redirect_from:
     background-color: #dec5df;
   }
   
+  #site-nav a {
+    color: #000000;
+  }
+
   a {
     color: #000000;
   }
