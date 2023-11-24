@@ -12,9 +12,16 @@ redirect_from:
 body {
     font-family: Arial, sans-serif;
     background-color: #efe9e1;
-    margin: 20px;
+    margin: 5px;
 }
 
+nav{
+  background-color: #ac86dd;
+}
+
+h1{
+  color: #000000;
+}
 </style>
 I am a 20 year old student at John Abbott College currently in the process of obtaining my computer science degree.
 
