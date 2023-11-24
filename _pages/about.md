@@ -22,7 +22,8 @@ The main focus of my programming journey has been to become a better user interf
 
 Why?, you may ask? I found that I really liked to design and provide a visual for clients and myself rather than being in front of a console all day.
 
-The artistic and aesthetic side of programming really intrigued me. So much so that I spent time learning JavaScript, CSS, HTML and the basics of front end design both for my own knowledge and for the ability to be abel to provide godd products in the future.
+The artistic and aesthetic side of programming really intrigued me. So much so that I spent time learning JavaScript, CSS, HTML and the basics of front end design both for my own knowledge and for the ability to be able to provide good products in the future.
+I would love to find myself in the UX/UI space in the near future, I find that it is the style of job that suits me perfectly.
 
 ---
 
