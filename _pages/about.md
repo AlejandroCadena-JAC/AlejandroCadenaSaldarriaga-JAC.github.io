@@ -15,11 +15,11 @@ body {
     margin: 5px;
 }
 
-nav{
+nav {
   background-color: #ac86dd;
 }
 
-h1{
+h1 {
   color: #000000;
 }
 </style>
