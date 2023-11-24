@@ -8,22 +8,25 @@ redirect_from:
   - /about.html
 ---
 <style>
-/* Your CSS styles go here */
-body {
-    font-family: Arial, sans-serif;
-    background-color: #efe9e1;
-    margin: 5px;
-}
-
-#site-nav {
-  color: #000000;
-  background-color: #dec5df;
-}
-
-h1 {
-  color: #000000;
-}
-</style>
+  /* Your CSS styles go here */
+  body {
+      font-family: Arial, sans-serif;
+      background-color: #efe9e1;
+      margin: 5px;
+  }
+  
+  #site-nav {
+    color: #000000;
+    background-color: #dec5df;
+  }
+  
+  a {
+    color: #000000;
+  }
+  h1 {
+    color: #000000;
+  }
+  </style>
 I am a 20 year old student at John Abbott College currently in the process of obtaining my computer science degree.
 
 The main focus of my programming journey has been to become a better user interface and user experience designer.
