@@ -25,4 +25,10 @@ collection: portfolio
   h1 {
     color: #000000;
   }
+    .pagination {
+    color: #000000;
+  }
+  .pagination--pager {
+    color: #000000;
+  }
   </style>
