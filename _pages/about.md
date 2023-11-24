@@ -15,8 +15,9 @@ body {
     margin: 5px;
 }
 
-nav {
-  background-color: #ac86dd;
+#site-nav {
+  color: #252d34;
+  background-color: #dec5df;
 }
 
 h1 {
