@@ -19,7 +19,7 @@ collection: portfolio
   #site-nav a {
     color: #000000;
   }
-  #projectInage {
+  #projectImage {
     background-image: url(/images/REMProject.png);
     background-repeat: no-repeat;
     width: 500px;
