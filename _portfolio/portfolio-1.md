@@ -22,8 +22,8 @@ collection: portfolio
   #projectInage {
     background-image: url(/images/REMProject.png);
     background-repeat: no-repeat;
-    width: 10px;
-    height: 20px;
+    width: 500px;
+    height: 300px;
 }
   a {
     color: #000000;
