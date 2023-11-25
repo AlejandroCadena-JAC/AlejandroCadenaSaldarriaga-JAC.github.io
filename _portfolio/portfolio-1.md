@@ -1,6 +1,6 @@
 ---
 title: "REM Planner App"
-excerpt: "An app to plan trips for the REM in Montreal and its surroundings<br/><img src='/images/REMProject.png'>"
+excerpt: "An app to plan trips for the REM in Montreal and its surroundings<br/><img id='projectImage'>"
 collection: portfolio
 ---
 
@@ -19,6 +19,12 @@ collection: portfolio
   #site-nav a {
     color: #000000;
   }
+  #projectInage {
+    background-image: url(/images/REMProject.png);
+    background-repeat: no-repeat;
+    width: 10px;
+    height: 20px;
+}
   a {
     color: #000000;
   }
