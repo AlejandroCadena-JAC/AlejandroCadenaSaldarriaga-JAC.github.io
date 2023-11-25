@@ -1,9 +1,9 @@
 ---
 title: "REM Planner App"
-excerpt: "An app to plan trips for the REM in Montreal and its surroundings<br/><img id='projectImage'>"
+excerpt: "An app to plan trips for the REM in Montreal and its surroundings"
 collection: portfolio
 ---
-
+I really like cars
 <style>
   /* Your CSS styles go here */
   body {
@@ -19,12 +19,7 @@ collection: portfolio
   #site-nav a {
     color: #000000;
   }
-  #projectImage {
-    background-image: url(/images/REMProject.png);
-    background-repeat: no-repeat;
-    width: 500px;
-    height: 300px;
-}
+
   a {
     color: #000000;
   }
