@@ -1,6 +1,6 @@
 ---
 title: "REM Planner App"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/REMProject.png'>"
+excerpt: "An app to plan trips for the REM in Montreal and its surroundings<br/><img src='/images\REMProject.png'>"
 collection: portfolio
 ---
 
